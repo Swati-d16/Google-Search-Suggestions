@@ -1,5 +1,5 @@
-import SuggestionItem from '../SuggestionItem'
 import {Component} from 'react'
+import SuggestionItem from '../SuggestionItem'
 
 import './index.css'
 
